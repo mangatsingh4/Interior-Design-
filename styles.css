@@ -1,0 +1,34 @@
+*{
+	size: 2000%;
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: "Arial",sans-serif;
+}
+.hero{
+    background-color: #f8f8f8;
+	overflow: hidden;
+}
+.heading h1{
+    color:#8b5e0f;
+	font-size: 55px;
+	text-align: center;
+	margin-top: 35px;
+
+}
+
+.Container{
+	display: flex;
+}
+	
+
+.hero-content p{
+	font-size: 24px;
+	line-height: 1.5px;
+	margin-bottom: 40px;
+	color:#666;
+
+}
+
+
+
